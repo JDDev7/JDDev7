@@ -27,5 +27,5 @@ Actualmente trabajando en un clon de Twitter/X.
 
 ### Contacto
 
-Si quieres que trabajemos juntos, no dudes en mandarme un [Correo](mailto:jdmorenopulido@gmail.com)
+Si quieres que trabajemos juntos, no dudes en mandarme un Correo 📧 a jdmorenopulido@gmail.com
 También puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/jdmorenopulido/)
