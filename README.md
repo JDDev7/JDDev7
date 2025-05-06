@@ -10,7 +10,7 @@ Soy un desarrollador web, a día de hoy freelance, enfocado en el frontend, espe
 - [JDWeather](https://jdweather.vercel.app) 🌤
 - [Password Generator](https://passgen-jddev.netlify.app) 🔑
 
-Actualmente trabajando en un clon de Twitter/X.
+
 
 ### Mis habilidades
 
