@@ -9,6 +9,7 @@ Soy un desarrollador web, a día de hoy freelance, enfocado en el frontend, espe
 - [Bar Calculator](https://calculadora-yellow-jddev.netlify.app) 🍺
 - [JDWeather](https://jdweather.vercel.app) 🌤
 - [Password Generator](https://passgen-jddev.netlify.app) 🔑
+- [Gremio Astral](https://jddev-gremio.vercel.app)
 
 
 
